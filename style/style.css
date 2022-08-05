@@ -326,7 +326,7 @@ header {
 /* --services-- */
 .My-services {
 	background: rgba(0, 0, 0, 0.6);
-	background-image: url('images/net.jpg');
+	background-image: url('../images/net.jpg');
 	background-size: cover;
 	color: #ff9300;
 	text-align: center;
